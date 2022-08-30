@@ -1,0 +1,12 @@
+com\francisco\clientes\demo\services\impl\ClienteImplement.class
+com\francisco\clientes\demo\controller\ClientesController.class
+com\francisco\clientes\demo\dao\ClienteDAO.class
+com\francisco\clientes\demo\utils\Constants.class
+com\francisco\clientes\demo\Main.class
+com\francisco\clientes\demo\models\ClienteModel$ClienteModelBuilder.class
+com\francisco\clientes\demo\utils\RegexValidation.class
+com\francisco\clientes\demo\models\ClienteModel.class
+com\francisco\clientes\demo\services\IClienteService.class
+com\francisco\clientes\demo\utils\ValidateModel.class
+com\francisco\clientes\demo\dto\RespuestaDTO$RespuestaDTOBuilder.class
+com\francisco\clientes\demo\dto\RespuestaDTO.class
